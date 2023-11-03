@@ -8,7 +8,7 @@ export const hero = [
     authorImg: "../images/author.jpg",
     time: "5 Jun - 2022",
     desc: [
-      {
+      { 
         para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
       },
       {

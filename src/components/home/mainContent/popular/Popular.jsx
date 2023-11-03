@@ -44,7 +44,7 @@ const Popular = () => {
                       </div>
                       <div class='category category1'>
                         <span>{val.catgeory}</span>
-                      </div>
+                      </div> 
                     </div>
                     <div className='text row'>
                       <h1 className='title'>{val.title.slice(0, 40)}...</h1>

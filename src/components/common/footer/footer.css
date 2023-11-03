@@ -60,3 +60,11 @@ footer ul li span::before {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+
+@media screen and (max-width: 425px) {
+  footer .container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+

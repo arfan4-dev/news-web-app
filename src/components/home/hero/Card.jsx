@@ -12,8 +12,8 @@ const Card = ({ item: { id, cover, catgeory, title, authorName, time } }) => {
           <span className='category'>{catgeory}</span>
           {/*<h1 className='titleBg'>{title}</h1>*/}
           <Link to={`/SinglePage/${id}`}>
-            <h1 className='titleBg'>{title}</h1>
-          </Link>
+            <p className='titleBg'>{title}</p>
+          </Link> 
           <div className='author flex'>
             <span>by {authorName}</span>
             <span>{time}</span>
